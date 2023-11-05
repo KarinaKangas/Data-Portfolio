@@ -2,10 +2,10 @@
   <tr style="background-color: transparent;">
     <td align="left" valign="top" style="border: none;">
       <h1>Karina Kangas</h1>
-      <p>Welcome to my data analysis portfolio! My portfolio is a peek into how I juggle stats, code, and visuals to make data tell a story. It all stems from my solid foundation in chemistry and a knack for cracking data puzzles. Whether it's forecasting sales or improving manufacturing processes, every project here is a slice of my analytical journey. Feel free to explore, and see how I turn data hurdles into business insights, one project at a time!</p>
+      <p>Welcome to my data analysis portfolio! <br /> <br /> My portfolio is a peek into how I juggle stats, code, and visuals to make data tell a story. It all stems from my solid foundation in chemistry and a knack for cracking data puzzles. Whether it's forecasting sales or improving manufacturing processes, every project here is a slice of my analytical journey.<br /><br />Feel free to explore, and see how I turn data hurdles into business insights, one project at a time!<br /><br /> Email: <a href="mailto:karinakangas@mgail.com">karinakangas@gmail.com</a><br>LinkedIn: <a href="https://www.linkedin.com/in/KarinaKangas/">KarinaKangas</a><p>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://raw.githubusercontent.com/KarinaKangas/Data-Portfolio/main/images/Avatar5.png" alt="banner" width="600" />
+      <img src="https://raw.githubusercontent.com/KarinaKangas/Data-Portfolio/main/images/Avatar5.png" alt="banner" width="900" />
     </td>
   </tr>
     
