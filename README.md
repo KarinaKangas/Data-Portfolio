@@ -7,8 +7,7 @@
     <td align="right" style="border: none;">
       <img src="https://raw.githubusercontent.com/KarinaKangas/Data-Portfolio/main/images/Avatar5.png" alt="banner" width="900" />
     </td>
-  </tr>
-    
+  </tr>   
 </table>
 
 
